@@ -1,0 +1,38 @@
+﻿Build started 15-04-2011 8:46:01 PM.
+     1>Project "E:\# Libraries\My Dropbox\Documents\ICT215 - Computer Graphics Principles and Programming\Assignments\Project\PingPong\PingPong\PingPong.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PingPong.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt Menu.c
+         Menu.c
+     1>Menu.c(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Menu.c(59): warning C4022: 'glutBitmapCharacter' : pointer mismatch for actual parameter 1
+     1>Menu.c(70): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 E:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(238) : see declaration of 'strdup'
+     1>Menu.c(72): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Menu.c(78): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 E:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Menu.c(67): warning C4101: 'i' : unreferenced local variable
+       Link:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\# Libraries\My Dropbox\Documents\ICT215 - Computer Graphics Principles and Programming\Assignments\Project\PingPong\Debug\PingPong.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PingPong.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\# Libraries\My Dropbox\Documents\ICT215 - Computer Graphics Principles and Programming\Assignments\Project\PingPong\Debug\PingPong.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\# Libraries\My Dropbox\Documents\ICT215 - Computer Graphics Principles and Programming\Assignments\Project\PingPong\Debug\PingPong.lib" /MACHINE:X86 Debug\Collision.obj
+         Debug\Controls.obj
+         Debug\glm.obj
+         Debug\Main.obj
+         Debug\Menu.obj
+         Debug\MenuItems.obj
+         Debug\Misc.obj
+         Debug\Objects.obj
+         LINK : E:\# Libraries\My Dropbox\Documents\ICT215 - Computer Graphics Principles and Programming\Assignments\Project\PingPong\Debug\PingPong.exe not found or not built by the last incremental link; performing full link
+         PingPong.vcxproj -> E:\# Libraries\My Dropbox\Documents\ICT215 - Computer Graphics Principles and Programming\Assignments\Project\PingPong\Debug\PingPong.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\# Libraries\My Dropbox\Documents\ICT215 - Computer Graphics Principles and Programming\Assignments\Project\PingPong\Debug\PingPong.exe;#1" /manifest Debug\PingPong.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\PingPong.unsuccessfulbuild".
+         Touching "Debug\PingPong.lastbuildstate".
+     1>Done Building Project "E:\# Libraries\My Dropbox\Documents\ICT215 - Computer Graphics Principles and Programming\Assignments\Project\PingPong\PingPong\PingPong.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79

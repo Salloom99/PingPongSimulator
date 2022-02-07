@@ -1,0 +1,170 @@
+﻿  Collision.c
+  Controls.c
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Controls.c(117): warning C4013: 'resetBall' undefined; assuming extern returning int
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Controls.c(122): warning C4013: 'ballBounce' undefined; assuming extern returning int
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Controls.c(127): warning C4013: 'rotatedHit' undefined; assuming extern returning int
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Controls.c(132): warning C4013: 'NormalServe' undefined; assuming extern returning int
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Controls.c(210): warning C4013: 'pauseGame' undefined; assuming extern returning int
+  glm.c
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(187): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(234): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(263): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(266): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(276): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(285): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(316): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(320): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(328): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(330): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(333): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(347): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(353): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(389): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(390): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(394): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(448): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(479): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(480): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(499): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(503): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(504): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(505): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(508): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(512): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(514): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(515): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(518): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(522): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(524): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(525): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(528): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(534): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(535): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(538): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(599): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(608): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(615): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(622): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(631): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(647): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(651): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(654): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(657): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(662): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(672): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(677): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(681): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(687): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(700): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(704): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(707): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(712): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(724): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(726): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(728): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(732): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(1308): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(1317): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(1485): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'GLfloat *'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(1429): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(1791): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(1812): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(1814): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\glm.c(1816): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+  IMGLoader.c
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\IMGLoader.c(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\IMGLoader.c(9): warning C4101: 'tmpIMG': unreferenced local variable
+  Main.c
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Main.c(125): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Main.c(252): warning C4013: 'printingInfos' undefined; assuming extern returning int
+  Menu.c
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Menu.c(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Menu.c(69): warning C4022: 'glutBitmapCharacter': pointer mismatch for actual parameter 1
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Menu.c(75): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Menu.c(77): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Menu.c(83): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Menu.c(92): warning C4013: 'sprintf' undefined; assuming extern returning int
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Menu.c(90): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+  MenuItems.c
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\MenuItems.c(100): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\MenuItems.c(103): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  Objects.c
+  Generating Code...
+C:\Users\salem\Desktop\semi-done\Calculations\pingpong\PingPong\Main.c(537): warning C4716: 'printingInfos': must return a value
+  PingPong.vcxproj -> C:\Users\salem\Desktop\semi-done\Calculations\pingpong\Debug\PingPong.exe
